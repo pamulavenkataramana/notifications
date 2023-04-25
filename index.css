@@ -1,0 +1,17 @@
+.ok {
+  height: 50px;
+  width: 60%;
+  background-color: red;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 5px;
+  text-align: center;
+}
+.l {
+  font-weight: bold;
+}
+.p {
+  height: 15px;
+  width: 20px;
+}
